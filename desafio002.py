@@ -1,0 +1,5 @@
+nome = input('Olá! Qual o seu nome? ')
+print('========== Código "Normal"==========')
+print('Muito prazer em te conhecer', nome)
+print('==== Código com SAIDA FORMATADA ====')
+print('Muito prazer em te conhecer {}!'.format(nome))
