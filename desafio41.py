@@ -1,7 +1,7 @@
-idade = int(input('Digite sua idade: '))
-
-while idade < 0:
-    idade = int(input('Valor inválido!\nDigite sua idade: '))
+from datetime import date
+atual = date.today().year
+nascimento = int(input('Digite o ano do seu nascimento: '))
+idade = atual - nascimento
 
 print('Categoria: ')
 if idade < 10:

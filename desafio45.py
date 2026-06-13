@@ -1,3 +1,6 @@
+#FIRULAS
+from time import sleep
+
 #PC ESCOLHE A RESPOSTA
 from random import randint
 pptMaq = randint(0,2)
@@ -13,6 +16,9 @@ pptUsr = str(input('PEDRA, PAPEL OU TESOURA? ').upper().strip())
 respostas = ['PEDRA', 'PAPEL', 'TESOURA']
 while pptUsr not in respostas:
     pptUsr = str(input('VALOR INVÁLIDO. PEDRA, PAPEL OU TESOURA? '))
+
+print('PROCESSANDO...')
+sleep(.5)
 
 #COMPARAÇÕES E RESPOSTAS
 print('=-'*20)

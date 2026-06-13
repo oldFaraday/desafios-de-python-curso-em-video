@@ -18,10 +18,10 @@ while base < 1 or base > 3:
 #ESCOLHE QUAL VALOR EXIBIR
 if base == 1:
     binario = bin(num)
-    print('O valor em binário é {}'.format(binario))
+    print('O valor em binário é {}'.format(binario[2:]))
 elif base == 2:
     octal = oct(num)
-    print('O valor em octal é {}'.format(octal))
+    print('O valor em octal é {}'.format(octal[2:]))
 else:
     hexadec = hex(num)
-    print('O valor em hexadecimal é {}'.format(hexadec))
+    print('O valor em hexadecimal é {}'.format(hexadec[2:]))
