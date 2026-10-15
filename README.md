@@ -20,6 +20,7 @@ desafios-de-python-curso-em-video/
 │   └── Aula 15/
 └── Mundo 3/
     └── Aula 16/
+    └── Aula 17/
 ```
 
 ## Conteúdo por Módulo
@@ -40,6 +41,7 @@ desafios-de-python-curso-em-video/
 
 ### Mundo 3 - Estruturas de dados, funções, módulos e pacotes
 - **Aula 16**: Tuplas
+- **Aula 17**: Listas (Parte 1)
 
 ## Como Executar
 
