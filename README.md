@@ -56,7 +56,7 @@ python desafio1.py
 
 - Os arquivos seguem a numeração original dos desafios propostos nas aulas
 - Alguns desafios podem ter variações (ex: `desafio21.wav` é um arquivo de áudio de apoio)
-- O arquivo `Python Mundo 3 - Gustavo Guanabara.docx` contém anotações da aula 16 e será o pdrão a partir de agora.
+- O arquivo `Python Mundo 3 - Gustavo Guanabara.docx` contém anotações das aulas do mundo 3 e será o padrão a partir de agora.
 
 ## Referências
 - [Curso em Vídeo - Python 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
